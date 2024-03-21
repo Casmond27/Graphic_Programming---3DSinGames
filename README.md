@@ -1,1 +1,1 @@
-# Graphic_Programming---3DSineGames
+# Graphic_Programming---3DSinGames
